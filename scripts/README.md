@@ -8,3 +8,4 @@ This folder contains helper scripts for automating or extending the dashboard fe
 To run the dashboard locally:
 ```bash
 streamlit run app/main.py
+
